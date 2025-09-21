@@ -59,10 +59,12 @@
 	},
 	"dependencies": {
 		"@node-rs/argon2": "^2.0.2",
+		"@svar-ui/svelte-grid": "^2.3.0",
 		"postgres": "^3.4.5"
 	},
 	"pnpm": {
 		"onlyBuiltDependencies": [
+			"@tailwindcss/oxide",
 			"esbuild"
 		]
 	}

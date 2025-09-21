@@ -1,4 +1,9 @@
 {
 	"$schema": "https://inlang.com/schema/inlang-message-format",
-	"hello_world": "Hello, {name} from sk!"
+	"quantity": "Množstvo",
+	"description": "Popis",
+	"unit_price": "Jedn. cena",
+	"vat_rate": "Sadzba DPH",
+	"vat_total": "DPH celkom",
+	"price_total": "Cena celkom"
 }
